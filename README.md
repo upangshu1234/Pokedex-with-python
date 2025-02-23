@@ -62,7 +62,9 @@ python pokedex.py
 [PokeAPI](https://pokeapi.co/) is used to fetch real-time Pokemon data.
 
 ## Screenshots
-
+![Image](https://github.com/user-attachments/assets/45c75d3e-8cb4-494d-94ca-341c68841599)
+![Image](https://github.com/user-attachments/assets/93f45cad-0124-440b-b6a6-186bcd728d48)
+![Image](https://github.com/user-attachments/assets/62a26e8e-05b5-40cf-b79b-7c8cb68b2207)
 
 ## License
 This project is open-source and available under the MIT License.
