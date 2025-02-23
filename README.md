@@ -19,8 +19,8 @@ Ensure you have Python installed on your system. You can download it from [pytho
 To get started, clone the repository using the following command:
 
 ```bash
-git clone https://github.com/yourusername/pokedex-python.git
-cd pokedex-python
+git clone https://github.com/upangshu1234/Pokedex-with-python.git
+cd Pokedex-with-python
 ```
 
 ### Installing Dependencies
